@@ -1,7 +1,10 @@
-<h1 style="background-color: #69bae4; padding: 10px">
-  <span align="left" style="display: block;">@{ Hello World }</span>
-  <span align="right" style="display: block;">I'm Muneeb. </span>
+<h1>
+  <div align="left">@{ Hello World }</div>
+  <div align="right">I'm Muneeb .</div>
 </h1>
+<h2 align="left">
+  I'm Muneeb.
+</h2>
 <h2 align="center">I talk to machines. I solve problems. I code. ♥️ </h2>
 <br />
 <p align="left">
