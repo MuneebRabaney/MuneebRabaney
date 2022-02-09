@@ -1,11 +1,6 @@
-<style type="text/css">
-.center-inner-nodes {
-  
-}
-</style>
 <h1 style="background: #69bae4; padding: 10px">
-  <span align="left" style="display: block;">@{ Hello World }</span>
-  <span align="right" style="display: block;">I'm Muneeb. </span>
+  <p align="left" style="display: block;">@{ Hello World }</p>
+  <p align="right" style="display: block;">I'm Muneeb. </p>
 </h1>
 <h2 align="center">I talk to machines. I solve problems. I code. ♥️ </h2>
 <br />
