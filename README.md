@@ -1,11 +1,10 @@
+<div style="background: #69bae4; padding: 10px 15px 0;">
 <h1>
   <div align="left">@{ Hello World }</div>
   <div align="right">I'm Muneeb .</div>
 </h1>
-<h2 align="left">
-  I'm Muneeb.
-</h2>
-<h2 align="center">I talk to machines. I solve problems. I code. ♥️ </h2>
+</div>
+<h2 border="none" align="center">I talk to machines. I solve problems. I code. ♥️ </h2>
 <br />
 <p align="left">
 
@@ -16,7 +15,10 @@
   - **Scaling applications** to improve business requirements/new features.
   - **realtime pub-sub systems** using websockets to comunicate between services. 
   - Im also interested in learning about to code in **VIM** [(using VS Code\'s Vim plugin)](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) to make me more productive. 
-  - **Python, TypeScript**
+  - **Python, TypeScript, NodeJS**
+  - **React, React Native, Gatsby**
+  - **GraphQL**
+  - **SQL, NoSQL**
   &nbsp;
 - 👯 &nbsp; I’m looking to collaborate on creating a [crypto trading bot](https://github.com/MuneebRabaney/calypso-trade-bot).
 
