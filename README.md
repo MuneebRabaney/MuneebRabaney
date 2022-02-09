@@ -1,10 +1,8 @@
-<div style="background: #69bae4; padding: 10px 15px 0;">
-<h1>
+<h1 style="background: #69bae4; padding: 10px 15px;">
   <div align="left">@{ Hello World }</div>
   <div align="right">I'm Muneeb .</div>
 </h1>
-</div>
-<h2 border="none" align="center">I talk to machines. I solve problems. I code. ♥️ </h2>
+<h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ </h3>
 <br />
 <p align="left">
 
