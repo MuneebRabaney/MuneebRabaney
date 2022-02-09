@@ -29,7 +29,7 @@
 - ⚡ **You can do anything you put your mind to.**
 - 🤓 Resources thats paved my way:
   - [Google](https://google.com/)
-  - **Documentation** always make sure to read the documentation
+  - **Documentation** !!Always make sure to read the documentation.
   - [Meduim](https://medium.com/)
   - [Stackexchange](https://stackexchange.com/)
   - [YouTube](https://www.youtube.com)
