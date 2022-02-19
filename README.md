@@ -18,7 +18,7 @@
   - **GraphQL**
   - **SQL, NoSQL**
   &nbsp;
-- 👯 &nbsp; I’m looking to collaborate on creating a [crypto trading bot](https://github.com/MuneebRabaney/calypso-trade-bot).
+- 👯 &nbsp; I’m looking to collaborate on creating a [trading bot](https://github.com/MuneebRabaney/calypso-trade-bot).
 
 - 👨‍💻 &nbsp; My long awaited, soon to be comming [portfolio](https://code-ninja.co.za/).
 
