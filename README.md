@@ -12,24 +12,24 @@
   - **Micro-services** and how they differ from API's  
   - **Scaling applications** to improve business requirements/new features.
   - **realtime pub-sub systems** using websockets to comunicate between services. 
-  - Im also interested in learning about to code in **VIM** [(using VS Code\'s Vim plugin)](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) to make me more productive. 
-  - **Python, TypeScript, NodeJS**
-  - **React, React Native, Gatsby**
+  - **VIM** [(using VS Code\'s Vim plugin)](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim). 
+  - **TypeScript, NodeJS, Python, GO**
+  - **React, React Native**
   - **GraphQL**
   - **SQL, NoSQL**
   &nbsp;
-- 👯 &nbsp; I’m looking to collaborate on creating a [trading bot](https://github.com/MuneebRabaney/calypso-trade-bot).
+- 👯 &nbsp; Collaborate with me [trading bot](https://github.com/MuneebRabaney/calypso-trade-bot).
 
-- 👨‍💻 &nbsp; My long awaited, soon to be comming [portfolio](https://code-ninja.co.za/).
+<!-- - 👨‍💻 &nbsp; My long awaited, soon to be comming [portfolio](https://code-ninja.co.za/). -->
 
-- 💬 &nbsp; Ask me about **React, React Native, JavaScript, tools that improve work productivity. MVC design pattern. Basically anything programming related/problem solving.**
+- 💬 &nbsp; Ask me about **Decoupling applications, Systems architecture, User interface design control flow, Productivity tooling, Software design patterns. Basically anything programming related/problem solving.**
 
-- 📫 &nbsp; How to reach me. **[Let's connect](https://code-ninja.co.za/)**
+- 📫 &nbsp; How to reach me. **[Let's connect](https://linkedin.com/in/muneeb-rabaney/)**
 
 - ⚡ **You can do anything you put your mind to.**
 - 🤓 Resources thats paved my way:
+  - **RTFM!! Documentation** !!Always make sure to read the documentation.
   - [Google](https://google.com/)
-  - **Documentation** !!Always make sure to read the documentation.
   - [Meduim](https://medium.com/)
   - [Stackexchange](https://stackexchange.com/)
   - [YouTube](https://www.youtube.com)
