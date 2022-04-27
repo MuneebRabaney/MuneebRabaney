@@ -45,8 +45,8 @@
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="border-radius: 20px">
-<a href="https://linkedin.com/in/https://za.linkedin.com/in/muneeb-rabaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://za.linkedin.com/in/muneeb-rabaney" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/4433536/white-rabbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4433536/white-rabbit" height="30" width="40" /></a>
+<a href="https://za.linkedin.com/in/muneeb-rabaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://za.linkedin.com/in/muneeb-rabaney" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4433536/white-rabbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4433536/white-rabbit" height="30" width="40" /></a>
 <a href="https://instagram.com/i.am.he.who.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.he.who.codes" height="30" width="40" /></a>
 </p>
 <br/>
