@@ -6,41 +6,22 @@
 <br />
 <p align="left">
 
-- 🔭 &nbsp; I’m currently working on planing the architectural technology requirements for an exsistig Fintech Application in order to provide a more scalable, platform agnostic solution to the current implementation.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently I'm working with a team of engineeers building Mapping and Analysis softawre.
 
-- 🌱 &nbsp; I’m currently learning more about:
-  - **Micro-services** and how they differ from API's  
-  - **Scaling applications** to improve business requirements/new features.
-  - **realtime pub-sub systems** using websockets to comunicate between services. 
-  - **VIM** [(using VS Code\'s Vim plugin)](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim). 
-  - **TypeScript, NodeJS, Python, GO**
-  - **React, React Native**
-  - **GraphQL**
-  - **SQL, NoSQL**
+- 🌱 &nbsp; At the moment, the tech im currently using is:
+  - **C# DOTNET Core, Angular, TypeScript, Node, MongoDB and Azure devOps**
+- 🌱 &nbsp; In my free time I'm:
+  - Testing creating cross platorm 2D platform and RPG games using [Turai](https://tauri.studio/) and [React](https://reactjs.org/)
+  - Building a tool in node to help me easily scaffold boilerplate code when using React and Redux for my UI
+  - Increasing my knowledge using Linux
   &nbsp;
-- 👯 &nbsp; Collaborate with me [trading bot](https://github.com/MuneebRabaney/calypso-trade-bot).
-
-<!-- - 👨‍💻 &nbsp; My long awaited, soon to be comming [portfolio](https://code-ninja.co.za/). -->
-
-- 💬 &nbsp; Ask me about **Decoupling applications, Systems architecture, User interface design control flow, Productivity tooling, Software design patterns. Basically anything programming related/problem solving.**
 
 - 📫 &nbsp; How to reach me. **[Let's connect](https://linkedin.com/in/muneeb-rabaney/)**
 
-- ⚡ **You can do anything you put your mind to.**
-- 🤓 Resources thats paved my way:
-  - **RTFM!! Documentation** !!Always make sure to read the documentation.
-  - [Google](https://google.com/)
-  - [Meduim](https://medium.com/)
-  - [Stackexchange](https://stackexchange.com/)
-  - [YouTube](https://www.youtube.com)
-    - [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers)
-    - [Ben Awad](https://www.youtube.com/c/BenAwad97)
-    - [Jessy Warden](https://www.youtube.com/c/JesseWarden)
-    - [STÖK Fredrik](https://www.youtube.com/c/STOKfredrik)
-    - [TomNomNom](https://www.youtube.com/user/TomNomNomDotCom)
-    - [Network Chuck](https://www.youtube.com/c/NetworkChuck)
-    - [3blue1brown](https://www.youtube.com/c/3blue1brown)
 </p>
+<br />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<br />
 
 <br />
 <h3 align="left">Connect with me:</h3>
@@ -49,7 +30,7 @@
 <a href="https://stackoverflow.com/users/4433536/white-rabbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4433536/white-rabbit" height="30" width="40" /></a>
 <a href="https://instagram.com/i.am.he.who.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.he.who.codes" height="30" width="40" /></a>
 </p>
-<br/>
+<br />
 <h3 align="left">Always come prepared for the occasion. Every tool has its place.</h3>
 
 <p align="center" className="center-inner-nodes" style="Background: #444; padding: 1rem">
