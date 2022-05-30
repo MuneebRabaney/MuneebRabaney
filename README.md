@@ -16,10 +16,11 @@
   Building a tool in node to help me easily scaffold boilerplate code when using React and Redux for my UI
   Increasing my knowledge using Linux
   &nbsp;
+	[me](https://linkedin.com/in/muneeb-rabaney/)
 <br />
 </p>
 
-<p align="left">📫  Connect with [me](https://linkedin.com/in/muneeb-rabaney/) </p>
+<p align="left">📫  Connect with  </p>
 
 <p align="left" style="border-radius: 20px">
 <br />
