@@ -20,7 +20,11 @@
 <br />
 </p>
 
-<p align="left">📫  Connect with  </p>
+<p align="left">
+  Connect with [Me](https://linkedin.com/in/muneeb-rabaney/)
+</p>
+
+
 
 <p align="left" style="border-radius: 20px">
 <br />
