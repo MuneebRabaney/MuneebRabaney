@@ -7,21 +7,19 @@
 <p align="left">
 <br />
   <img align="right" alt="Coding" width="400" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif">
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently I'm working with a team of engineeers building Mapping and Analysis softawre.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently I'm working with a team of engineeers building Mapping and Analysis softawre.
 
-- 🌱 &nbsp; At the moment, the tech im currently using is:
-  - **C# DOTNET Core, Angular, TypeScript, Node, MongoDB and Azure devOps**
-- 🌱 &nbsp; In my free time I'm:
-  - Testing creating cross platorm 2D platform and RPG games using [Turai](https://tauri.studio/) and [React](https://reactjs.org/)
-  - Building a tool in node to help me easily scaffold boilerplate code when using React and Redux for my UI
-  - Increasing my knowledge using Linux
+🌱 &nbsp; At the moment, the tech im currently using is:
+  **C# DOTNET Core, Angular, TypeScript, Node, MongoDB and Azure devOps**
+🌱 &nbsp; In my free time I'm:
+  Testing creating cross platorm 2D platform and RPG games using [Turai](https://tauri.studio/) and [React](https://reactjs.org/)
+  Building a tool in node to help me easily scaffold boilerplate code when using React and Redux for my UI
+  Increasing my knowledge using Linux
   &nbsp;
-
-- 📫 &nbsp; How to reach me. **[Let's connect](https://linkedin.com/in/muneeb-rabaney/)**
 <br />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">📫  Connect with [me](https://linkedin.com/in/muneeb-rabaney/) </p>
 
 <p align="left" style="border-radius: 20px">
 <br />
