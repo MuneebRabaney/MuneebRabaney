@@ -3,9 +3,10 @@
   <div align="right">I'm Muneeb. &nbsp;</div>
 </h1>
 <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ </h3>
-<br />
-<p align="left">
 
+<p align="left">
+<br />
+  <img align="right" alt="Coding" width="400" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif">
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently I'm working with a team of engineeers building Mapping and Analysis softawre.
 
 - 🌱 &nbsp; At the moment, the tech im currently using is:
@@ -17,14 +18,13 @@
   &nbsp;
 
 - 📫 &nbsp; How to reach me. **[Let's connect](https://linkedin.com/in/muneeb-rabaney/)**
-
+<br />
 </p>
 
-<br />
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif">
 <p align="left" style="border-radius: 20px">
+<br />
 <br />
 <a href="https://za.linkedin.com/in/muneeb-rabaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://za.linkedin.com/in/muneeb-rabaney" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4433536/white-rabbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4433536/white-rabbit" height="30" width="40" /></a>
