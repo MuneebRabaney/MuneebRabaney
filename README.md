@@ -96,5 +96,5 @@
 </p>
 <p>
   &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebrabaney&show_icons=true&locale=en&layout=compact" alt="muneebrabaney" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebrabaney&show_icons=true&hide=html,css,scss,blade&locale=en&layout=compact" alt="muneebrabaney" />
 </p>
