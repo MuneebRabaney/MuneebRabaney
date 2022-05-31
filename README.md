@@ -3,7 +3,7 @@
 </span>
 <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
 <span style="display: block; overflow: hidden">
-<img align="right" alt="Coding" width="400" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
+<img align="right" alt="Coding" width="480" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
   <pre>
   Im currently buiding Applicaions using the below:
 
