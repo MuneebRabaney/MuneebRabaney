@@ -1,60 +1,52 @@
 <span style="display: block; background: #69bae4; padding: 10px 15px;">
-  <h2 align="left">@{ Hello World }</h2>
-  <h3 align="right">I'm Muneeb. &nbsp;</h3>
+  <h1 align="left">@{ Hello World } <br /> <br /></h1>
 </span>
 
 <span style="display: block;">
-  <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ </h3>
+  <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️   <br />  <br /></h3>
   <p align="left">
     <img align="right" alt="Coding" width="400" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
   </p>
   <br />
+  <br />
 </span>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Currently I'm working with a team of engineers building Mapping and Analysis software.
-  <ul>
-    <li>
-      <p align="left">
-      🌱 &nbsp; At the moment, the tech im currently using is:
-      </p>
-    </li>
-    <li>
-      <p>
-        **C# DOTNET Core, Angular, TypeScript, Node, MongoDB and Azure devOps**
-      </p>
-    </li>
-    <li>
-      <p>
-      🌱 &nbsp; In my free time I'm:
-      </p>
-    </li>
-    <li>
-      <p>
-        Testing creating cross platform 2D platform and RPG games using [Turai](https://tauri.studio/) and [React](https://reactjs.org/)
-      </p>
-      <p>
-        Building a tool in node to help me easily scaffold boilerplate code when using React and Redux for my UI
-      </p>
-      <p>
-        Increasing my knowledge using Linux
-      </p>
-    </li>
-    <br />
-  </ul>
-</p>
 
+```c++
+/*
+  At the moment, the tech im currently using is:
 
-<br />
+  C# DOTNET Core, Angular, 
+  TypeScript, Node, MongoDB, Azure devOps
+
+  In my free time I'm:
+
+  Testing creating cross platform 2D 
+  platform and RPG games using Turai and React
+
+  Building a tool in node to help me easily scaffold 
+  boilerplate code when using React and Redux for my UI
+
+  Increasing my knowledge using Linux
+*/
+
+```
 
 
 
 <p align="left" style="border-radius: 20px">
+  <br />
   Connect With <a href="https://linkedin.com/in/muneeb-rabaney/">Me</a>
   <br />
-  <a href="https://za.linkedin.com/in/muneeb-rabaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://za.linkedin.com/in/muneeb-rabaney" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/4433536/white-rabbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4433536/white-rabbit" height="30" width="40" /></a>
-  <a href="https://instagram.com/i.am.he.who.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.he.who.codes" height="30" width="40" /></a>
+  <a href="https://za.linkedin.com/in/muneeb-rabaney" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://za.linkedin.com/in/muneeb-rabaney" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/4433536/white-rabbit" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4433536/white-rabbit" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/i.am.he.who.codes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.he.who.codes" height="30" width="40" />
+  </a>
   <br />
 </p>
 
@@ -112,7 +104,7 @@
  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /> </a> &nbsp;&nbsp;
 </p>
-<br/>
+<br />
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebrabaney&show_icons=true&locale=en&layout=compact" alt="muneebrabaney" />
 </p>
