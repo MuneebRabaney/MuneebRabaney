@@ -1,42 +1,32 @@
 <span style="display: block; background: #69bae4; padding: 10px 15px;">
   <h1 align="left">@{ Hello World } <br /> <br /></h1>
 </span>
+<h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
+<span style="display: block; overflow: hidden">
+<img align="right" alt="Coding" width="568" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
+  <pre>
+  Im currently buiding Applicaions using the below:
 
-<span style="display: block;">
-  <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️   <br />  <br /></h3>
-  <p align="left">
-    <img align="right" alt="Coding" width="400" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
-  </p>
-  <br />
-  <br />
+    C#, Angular, React,
+    TypeScript, Node, MongoDB, 
+    Azure devOps.
+
+    In my free time I'v strarted looknig to platform 
+    based game developemnt, buildig tools to help my 
+    craft and aid programmers where I can.
+    
+    My goto tech stack would be: 
+    React with Typescrpt on the client 
+    Node, C#, Go or Php om the server
+
+    Increasing my knowledge using Linux, I use Arch BTW XD
+  </pre>
 </span>
-
-
-```c++
-/*
-  At the moment, the tech im currently using is:
-
-  C# DOTNET Core, Angular, 
-  TypeScript, Node, MongoDB, Azure devOps
-
-  In my free time I'm:
-
-  Testing creating cross platform 2D 
-  platform and RPG games using Turai and React
-
-  Building a tool in node to help me easily scaffold 
-  boilerplate code when using React and Redux for my UI
-
-  Increasing my knowledge using Linux
-*/
-
-```
-
-
 
 <p align="left" style="border-radius: 20px">
   <br />
   Connect With <a href="https://linkedin.com/in/muneeb-rabaney/">Me</a>
+  <br />
   <br />
   <a href="https://za.linkedin.com/in/muneeb-rabaney" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://za.linkedin.com/in/muneeb-rabaney" height="30" width="40" />
@@ -52,7 +42,7 @@
 
 <h3 align="left">Always come prepared for the occasion. Every tool has its place.</h3>
 
-<p align="center" className="center-inner-nodes" style="Background: #444; padding: 1rem">
+<p align="center" className="center-inner-nodes" style="background: #444; padding: 1rem">
  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a> &nbsp;&nbsp;
@@ -104,7 +94,7 @@
  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /> </a> &nbsp;&nbsp;
 </p>
-<br />
 <p>
+  &nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebrabaney&show_icons=true&locale=en&layout=compact" alt="muneebrabaney" />
 </p>
