@@ -20,11 +20,12 @@
     server Increasing my knowledge
     using Linux, I use Arch BTW XD
   </pre>
-</[>
-
-<span style="display: block; overflow: hidden">
+  <span style="display: block; overflow: hidden">
   <img align="right" alt="Coding" width="440" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
 </span>
+</[>
+
+
 
 <p align="left" style="border-radius: 20px">
   <br />
