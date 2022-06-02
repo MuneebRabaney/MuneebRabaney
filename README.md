@@ -11,11 +11,9 @@
     TypeScript, Node, MongoDB, 
     Azure devOps.
 
-    In my free time I'v strarted looking into platform 
-    based game developemnt, building tools to help my 
-    craft and aid programmers where I can.My goto tec
-    h
-    stack would be:   React with Typescrpt on the client
+    In my free time I'v strarted looking into platform based game 
+    developemnt, building tools to help my  craft and aid programmers where I 
+    can.My goto tech stack would be: React with Typescrpt on the client
     Node, C#, Go or PHP om the server Increasing my knowledge
     using Linux, I use Arch BTW XD
   </pre>
