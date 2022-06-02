@@ -3,11 +3,11 @@
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
 </span>
 
-<code>
-  <pre>
-  Im currently buiding Applicaions using the below:
+<span style="display: block; overflow: hidden">
+  <pre style="width: 150px">
+    Im currently buiding Applicaions using the below:
 
-    C#, Angular, React,
+    ± C#, Angular, React,
     TypeScript, Node, MongoDB, 
     Azure devOps.
 
@@ -18,7 +18,7 @@
     server Increasing my knowledge
     using Linux, I use Arch BTW XD
   </pre>
-</code>
+</span>
 
 <span style="display: block; overflow: hidden">
   <img align="right" alt="Coding" width="440" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
