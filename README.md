@@ -1,9 +1,9 @@
 <span style="display: block; background: #69bae4; padding: 10px 15px;">
   <h1 align="left">@{ Hello World } <br /> <br /></h1>
+  <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
 </span>
-<h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
-<span style="display: block; overflow: hidden">
-<img align="right" alt="Coding" width="440" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
+
+<code>
   <pre>
   Im currently buiding Applicaions using the below:
 
@@ -18,6 +18,10 @@
     server Increasing my knowledge
     using Linux, I use Arch BTW XD
   </pre>
+</code>
+
+<span style="display: block; overflow: hidden">
+  <img align="right" alt="Coding" width="440" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
 </span>
 
 <p align="left" style="border-radius: 20px">
