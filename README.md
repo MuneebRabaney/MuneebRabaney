@@ -3,8 +3,8 @@
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
 </span>
 
-<span style="display: block; overflow: hidden">
-  <pre style="width: 150px">
+<span style="display: inline-block; width: 150px; overflow: hidden">
+  <pre>
     Im currently buiding Applicaions using the below:
 
     ± C#, Angular, React,
