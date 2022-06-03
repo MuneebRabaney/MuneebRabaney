@@ -7,8 +7,9 @@
   <pre>
     Im currently buiding Applicaions using the below:
 
-    ± C#, Angular, React,
-    TypeScript, Node, MongoDB, 
+    C#, TypeScript, 
+    Angular, React,
+    Node, MongoDB, 
     Azure devOps.
 
     In my free time I'v strarted looking into platform based game 
