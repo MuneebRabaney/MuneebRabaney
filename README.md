@@ -3,7 +3,7 @@
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
 </span>
 
-<p style="display: inline-block; width: 150px; overflow: hidden">
+<p style="display: inline-block; width: 150px; overflow: background-image: url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');"">
   <pre>
     Im currently buiding Applicaions using the below:
 
@@ -20,11 +20,22 @@
     Typescrpt on the client Node, C#, Go or PHP om the 
     server Increasing my knowledge
     using Linux, I use Arch BTW XD
+    
   </pre>
   <span style="display: block; overflow: hidden">
-  <img align="right" alt="Coding" width="440" src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
-</span>
-</[>
+  <!--
+  
+  
+  
+  <img   
+    width="440"
+    alt="Coding" 
+    align="right"
+    src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
+  </span>
+  
+  -->
+</p>
 
 
 
