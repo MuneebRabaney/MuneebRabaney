@@ -3,30 +3,32 @@
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
 </span>
 
-<p style="display: inline-block; width: 150px; overflow: background-image: url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');"">
+<p style="display: inline-block; width: 150px; overflow: background-image:url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');"">
   <pre>
     Im currently buiding Applicaions using the below:
 
     C#, TypeScript, 
-    Angular, React,
-    Node, MongoDB, 
-    Azure devOps.
+    React, React Native,
+    Node, MongoDB, NextJS.
 
     In my free time I'v strarted looking into platform based game 
-    developemnt, building tools to help my  craft and aid 
-    programmers where I can.My goto tech stack would be: React with 
+    developemnt, building tools to help my craft and aid 
+    other programmers where I can. 
     
+    My goto tech stack would be: 
     
-    Typescrpt on the client Node, C#, Go or PHP om the 
-    server Increasing my knowledge
-    using Linux, I use Arch BTW XD
+    client 
+    React with using Typescrpt 
+
+    Server 
+    Node, C#, Go or PHP
+    
+    OS Choice
+    Arch Linux
     
   </pre>
-  <span style="display: block; overflow: hidden">
-  <!--
-  
-  
-  
+
+<span style="display: block; overflow: hidden">
   <img   
     width="440"
     alt="Coding" 
@@ -34,7 +36,7 @@
     src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
   </span>
   
-  -->
+
 </p>
 
 
