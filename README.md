@@ -114,5 +114,3 @@
   &nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebrabaney&show_icons=true&hide=html,css,scss,blade&locale=en&layout=compact" alt="muneebrabaney" />
 </p>
-
-<span class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muneeb-rabaney" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/muneeb-rabaney?trk=profile-badge">Muneeb Rabaney</a></div>
