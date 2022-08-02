@@ -109,10 +109,15 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> &nbsp;&nbsp;
- <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" /> </a> &nbsp;&nbsp;
+ <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" /> </a> 
+ 
+<a href="https://stackexchange.com/users/5595672/white-rabbit"><img src="https://stackexchange.com/users/flair/5595672.png" width="208" height="58" alt="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+ &nbsp;&nbsp;
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /> </a> &nbsp;&nbsp;
 </p>
 <p>
   &nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebrabaney&show_icons=true&hide=html,css,scss,blade&locale=en&layout=compact" alt="muneebrabaney" />
 </p>
+
+<span class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muneeb-rabaney" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/muneeb-rabaney?trk=profile-badge">Muneeb Rabaney</a></div>
