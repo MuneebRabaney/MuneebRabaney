@@ -59,7 +59,7 @@
 </p>
 
 <h3 align="left">Always come prepared for the occasion. Every tool has its place.</h3>
-
+<a href="https://stackexchange.com/users/5595672/white-rabbit"><img src="https://stackexchange.com/users/flair/5595672.png" width="208" height="58" alt="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 <p align="center" className="center-inner-nodes" style="background: #444; padding: 1rem">
  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40" /> </a> &nbsp;&nbsp;
@@ -109,10 +109,7 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> &nbsp;&nbsp;
- <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" /> </a> 
- 
-<a href="https://stackexchange.com/users/5595672/white-rabbit"><img src="https://stackexchange.com/users/flair/5595672.png" width="208" height="58" alt="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
- &nbsp;&nbsp;
+ <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /> </a> &nbsp;&nbsp;
 </p>
 <p>
