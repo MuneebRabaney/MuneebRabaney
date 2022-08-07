@@ -35,11 +35,7 @@
     align="right"
     src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
   </span>
-  
-
 </p>
-
-
 
 <p align="left" style="border-radius: 20px">
   <br />
