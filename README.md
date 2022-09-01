@@ -4,28 +4,55 @@
 </span>
 
 <p style="display: inline-block; width: 150px; overflow: background-image:url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');"">
-  <pre>
-    Im currently buiding Applicaions using the below:
 
-    C#, TypeScript, 
-    React, React Native,
-    Node, MongoDB, NextJS.
+```typescript
+    interface Programmer 
+    {
+      title     : string;
+      stack     : string[];
+      languages : string[];
+    }
 
-    In my free time I'v strarted looking into platform based game 
-    developemnt, building tools to help my craft and aid 
-    other programmers where I can. 
-    
-    My goto tech stack would be: 
-    
-    client 
-    React with using Typescrpt 
+    class Human implements Programmer 
+    {
 
-    Server 
-    Node, C#, Go or PHP
-    
-    OS Choice
-    Arch Linux
-    
+      public alias       : string;
+
+      constructor (
+        public title     : string, 
+        public stack     : string[],
+        public languages : string[]
+      ) 
+      { 
+        this.title     = title;
+        this.stack     = stack;
+        this.languages = languages;
+      }
+
+      public static main(): string {
+        return " If You want to make an omlate, keep a chicken nearby. Consider a pan. ";
+      }
+
+    };
+
+    const Programmer = new Programmer();
+
+    Programmer.alias = "White Rabbit";
+
+    Programmer.title = "Snr. Software Engineer";
+
+    Programmer.stack = [
+      "Solidity", 
+      "GraphQL", "Node",
+      "React Native", "React",
+    ];
+
+    Programmer.languages = [
+      "bash", "C", "C#", "C++",
+      "lua", "PHP", "Sql", "Go",
+      "TypeScript", "Javascript", "Rust"
+    ];
+```
   </pre>
 
 <span style="display: block; overflow: hidden">
