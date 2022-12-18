@@ -3,57 +3,66 @@
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
 </span>
 
-<p style="display: inline-block; width: 150px; overflow: background-image:url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');"">
+<p style="display: inline-block; width: 150px; overflow: background-image:url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');">
 
 ```typescript
-    interface Programmer 
-    {
-      title     : string;
-      stack     : string[];
-      languages : string[];
-    }
+interface Programmer 
+{
+  title     : string;
+  stack     : string[];
+  languages : string[];
+}
 
-    class Human implements Programmer 
-    {
+class Human implements Programmer 
+{
 
-      public alias       : string;
+  public alias       : string;
 
-      constructor (
-        public title     : string, 
-        public stack     : string[],
-        public languages : string[]
-      ) 
-      { 
-        this.title     = title;
-        this.stack     = stack;
-        this.languages = languages;
-      }
+  constructor (
+    public title     : string, 
+    public stack     : string[],
+    public languages : string[]
+  ) 
+  { 
+    this.title     = title;
+    this.stack     = stack;
+    this.languages = languages;
+  }
 
-      public static main(): string {
-        return " If You want to make an omlate, keep a chicken nearby. Consider a pan. ";
-      }
+  public static setMessage(message: string) {
+    this.message = message;
+  }
 
-    };
+  public getMessage(value: string) {
+    return this.message;
+  }
 
-    const Programmer = new Programmer();
 
-    Programmer.alias = "White Rabbit";
+  public static main(): string {
+    return getMessage();
+  }
 
-    Programmer.title = "Snr. Software Engineer";
+};
 
-    Programmer.stack = [
-      "Solidity", 
-      "GraphQL", "Node",
-      "React Native", "React",
-    ];
+const Programmer = new Programmer();
 
-    Programmer.languages = [
-      "bash", "C", "C#", "C++",
-      "lua", "PHP", "Sql", "Go",
-      "TypeScript", "Javascript", "Rust"
-    ];
+Programmer.alias = "White Rabbit";
+
+Programmer.title = "Snr. Software Engineer";
+
+Programmer.stack = [
+  "Solidity", 
+  "GraphQL", "Node",
+  "React Native", "React",
+];
+
+Programmer.languages = [
+  "bash", "C", "C#", "C++",
+  "lua", "PHP", "Sql", "Go",
+  "TypeScript", "Javascript", "Rust"
+];
 ```
-  </pre>
+</p>
 
 <span style="display: block; overflow: hidden">
   <img   
@@ -135,5 +144,8 @@
 </p>
 <p>
   &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebrabaney&show_icons=true&hide=html,css,scss,blade&locale=en&layout=compact" alt="muneebrabaney" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebrabaney&show_icons=true&hide=html,css,scss,blade&locale=en&layout=compact&theme=tokyonight" alt="muneebrabaney" />
+  &nbsp;&nbsp;
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=muneebrabaney&include_all_commits=&count_private=true&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="muneebrabaney" />
 </p>
+
