@@ -29,19 +29,6 @@ class Human implements Programmer
     this.languages = languages;
   }
 
-  public static setMessage(message: string) {
-    this.message = message;
-  }
-
-  public getMessage(value: string) {
-    return this.message;
-  }
-
-
-  public static main(): string {
-    return getMessage();
-  }
-
 };
 
 const Programmer = new Programmer();
