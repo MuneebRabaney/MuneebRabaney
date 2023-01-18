@@ -135,6 +135,6 @@ Programmer.languages = [
   &nbsp;&nbsp;
   <span style="display:blockL; width: 20px; height: auto; align: center;">&nbsp;&nbsp;</span>
     &nbsp;&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=muneebrabaney&include_all_commits=&count_private=true&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="muneebrabaney" />
+
 </p>
 
