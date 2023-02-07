@@ -30,27 +30,32 @@ struct Programmer {
 }
 
 impl Programmer {
-  fn new(name: String, title: String, stack: Vec<String>, languages: Vec<String>) -> Self {
-    Self {
-      human: Human::new(name),
-      title,
-      stack,
-      languages,
+  fn new(
+    name: String, 
+    title: String, 
+    stack: Vec<String>, 
+    languages: Vec<String>
+  ) -> Self {
+      Self {
+        human: Human::new(name),
+        title,
+        stack,
+        languages,
+      }
     }
-  }
 
-  fn display(&self) {
-    self.human.display();
-    println!("Title: {}", self.title);
-    println!("Stack:");
-    for technology in &self.stack {
-      println!("- {}", technology);
+    fn display(&self) {
+      self.human.display();
+      println!("Title: {}", self.title);
+      println!("Stack:");
+      for technology in &self.stack {
+        println!("- {}", technology);
+      }
+      println!("Languages:");
+      for language in &self.languages {
+        println!("- {}", language);
+      }
     }
-    println!("Languages:");
-    for language in &self.languages {
-      println!("- {}", language);
-    }
-  }
 }
 
 fn main() {
