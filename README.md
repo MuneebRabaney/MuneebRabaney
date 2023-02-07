@@ -30,12 +30,7 @@ struct Programmer {
 }
 
 impl Programmer {
-  fn new(
-    name: String, 
-    title: String, 
-    stack: Vec<String>, 
-    languages: Vec<String>
-  ) -> Self {
+  fn new( name: String, title: String, stack: Vec<String>, languages: Vec<String> ) -> Self {
       Self {
         human: Human::new(name),
         title,
@@ -62,7 +57,7 @@ fn main() {
   let programmer = Programmer::new(
     "John Doe".to_string(),
     "Snr. Software Engineer".to_string(),
-    vec!["Rust", "C", "C++", "Go"],
+    vec!["C", "C++", "Go"],
     vec!["C#", "Bash", "JavaScript", "TypeScript"],
   );
 
