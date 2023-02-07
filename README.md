@@ -8,40 +8,65 @@
 ```rust
 use std::io;
 
+struct Human {
+  name: String,
+}
+
+impl Human {
+  fn new(name: String) -> Self {
+    Self { name }
+  }
+
+  fn display(&self) {
+    println!("Name: {}", self.name);
+  }
+}
+
 struct Programmer {
-    title: String,
-    stack: Vec<String>,
-    languages: Vec<String>,
+  human: Human,
+  title: String,
+  stack: Vec<String>,
+  languages: Vec<String>,
 }
 
 impl Programmer {
-    fn new(title: String, stack: Vec<String>, languages: Vec<String>) -> Self {
-        Self { title, stack, languages }
+  fn new(name: String, title: String, stack: Vec<String>, languages: Vec<String>) -> Self {
+    Self {
+      human: Human::new(name),
+      title,
+      stack,
+      languages,
     }
+  }
+
+  fn display(&self) {
+    self.human.display();
+    println!("Title: {}", self.title);
+    println!("Stack:");
+    for technology in &self.stack {
+      println!("- {}", technology);
+    }
+    println!("Languages:");
+    for language in &self.languages {
+      println!("- {}", language);
+    }
+  }
 }
 
 fn main() {
-    let programmer = Programmer::new(
-        "Snr. Software Engineer".to_string(),
-        vec!["Rust".to_string(), "C".to_string(), "C++".to_string(), "Go".to_string()],
-        vec!["C#".to_string(), "Bash".to_string(), "JavaScript".to_string(), "TypeScript".to_string()],
-    );
+  let programmer = Programmer::new(
+    "John Doe".to_string(),
+    "Snr. Software Engineer".to_string(),
+    vec!["Rust", "C", "C++", "Go"],
+    vec!["C#", "Bash", "JavaScript", "TypeScript"],
+  );
 
-    println!("Programmer Information:");
-    println!("Title: {}", programmer.title);
-    println!("Stack:");
-    for technology in &programmer.stack {
-        println!("- {}", technology);
-    }
-    println!("Languages:");
-    for language in &programmer.languages {
-        println!("- {}", language);
-    }
+  programmer.display();
 
-    let mut alias = String::new();
-    println!("Enter your alias:");
-    io::stdin().read_line(&mut alias).unwrap();
-    println!("Programmer Alias: {}", alias);
+  let mut alias = String::new();
+  println!("Enter your alias:");
+  io::stdin().read_line(&mut alias).unwrap();
+  println!("Programmer Alias: {}", alias.trim());
 }
 ```
 </p>
