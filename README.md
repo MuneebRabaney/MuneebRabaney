@@ -5,49 +5,44 @@
 
 <p style="display: inline-block; width: 150px; overflow: background-image:url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');">
 
-```typescript
-interface Programmer 
-{
-  title     : string;
-  stack     : string[];
-  languages : string[];
+```rust
+use std::io;
+
+struct Programmer {
+    title: String,
+    stack: Vec<String>,
+    languages: Vec<String>,
 }
 
-class Human implements Programmer 
-{
+impl Programmer {
+    fn new(title: String, stack: Vec<String>, languages: Vec<String>) -> Self {
+        Self { title, stack, languages }
+    }
+}
 
-  public alias       : string;
+fn main() {
+    let programmer = Programmer::new(
+        "Snr. Software Engineer".to_string(),
+        vec!["Rust".to_string(), "C++".to_string(), "Go".to_string()],
+        vec!["Unix".to_string(), "Bash".to_string(), "Python".to_string()],
+    );
 
-  constructor (
-    public title     : string, 
-    public stack     : string[],
-    public languages : string[]
-  ) 
-  { 
-    this.title     = title;
-    this.stack     = stack;
-    this.languages = languages;
-  }
+    println!("Programmer Information:");
+    println!("Title: {}", programmer.title);
+    println!("Stack:");
+    for technology in &programmer.stack {
+        println!("- {}", technology);
+    }
+    println!("Languages:");
+    for language in &programmer.languages {
+        println!("- {}", language);
+    }
 
-};
-
-const Programmer = new Programmer();
-
-Programmer.alias = "White Rabbit";
-
-Programmer.title = "Snr. Software Engineer";
-
-Programmer.stack = [
-  "Solidity", 
-  "GraphQL", "Node",
-  "React Native", "React",
-];
-
-Programmer.languages = [
-  "bash", "C", "C#", "C++",
-  "lua", "PHP", "Sql", "Go",
-  "TypeScript", "Javascript", "Rust"
-];
+    let mut alias = String::new();
+    println!("Enter your alias:");
+    io::stdin().read_line(&mut alias).unwrap();
+    println!("Programmer Alias: {}", alias);
+}
 ```
 </p>
 
