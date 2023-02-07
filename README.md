@@ -23,8 +23,8 @@ impl Programmer {
 fn main() {
     let programmer = Programmer::new(
         "Snr. Software Engineer".to_string(),
-        vec!["Rust".to_string(), "C++".to_string(), "Go".to_string()],
-        vec!["Unix".to_string(), "Bash".to_string(), "Python".to_string()],
+        vec!["Rust".to_string(), "C".to_string(), "C++".to_string(), "Go".to_string()],
+        vec!["C#".to_string(), "Bash".to_string(), "JavaScript".to_string(), "TypeScript".to_string()],
     );
 
     println!("Programmer Information:");
