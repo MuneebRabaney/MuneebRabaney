@@ -62,11 +62,6 @@ fn main() {
   );
 
   programmer.display();
-
-  let mut alias = String::new();
-  println!("Enter your alias:");
-  io::stdin().read_line(&mut alias).unwrap();
-  println!("Programmer Alias: {}", alias.trim());
 }
 ```
 </p>
