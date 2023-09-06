@@ -7,8 +7,7 @@
       <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="codewars" />
     </a>
   </h1>
-  <br />
-  <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
+  <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br /> </h3>
 </span>
 
 <p style="display: inline-block; width: 150px; overflow: background-image:url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');">
