@@ -1,5 +1,13 @@
 <span style="display: block; background: #69bae4; padding: 10px 15px;">
-  <h1 align="left">@{ Hello World } <br /> <br /></h1>
+  <h1 style="width: 100%">
+    <span align="left">
+      @{ Hello World }
+    </span>
+    <a align="right" href="https://www.codewars.com/users/0xe1%E2%B2%967r/" target="blank">
+      <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="codewars" />
+    </a>
+  </h1>
+  <br />
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
 </span>
 
