@@ -1,5 +1,13 @@
 <span style="display: block; background: #69bae4; padding: 10px 15px;">
-  <h1 align="left">@{ Hello World } <br /> <br /></h1>
+  <h1 style="width: 100%">
+    <span align="left">
+      @{ Hello World }
+    </span>
+    <a align="right" href="https://www.codewars.com/users/0xe1%E2%B2%967r/" target="blank">
+      <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="codewars" />
+    </a>
+  </h1>
+  <br />
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br/> </h3>
 </span>
 
@@ -86,8 +94,9 @@ fn main() {
   <a href="https://stackoverflow.com/users/4433536/white-rabbit" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4433536/white-rabbit" height="30" width="40" />
   </a>
+
   <a href="https://instagram.com/i.am.he.who.codes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.he.who.codes" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iamhewhocodes" height="30" width="40" />
   </a>
   <br />
 </p>
