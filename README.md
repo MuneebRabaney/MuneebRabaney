@@ -3,7 +3,11 @@
     <span align="left">
       @{ Hello World }
     </span>
-    
+    <span align="left">
+      <a align="center" href="https://www.codewars.com/users/0xe1%E2%B2%967r/" target="blank">
+        <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="codewars" />
+      </a>    
+    </span>
   </h1>
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br /> </h3>
 </span>
@@ -70,9 +74,7 @@ fn main() {
 }
 ```
 </p>
-<a align="center" href="https://www.codewars.com/users/0xe1%E2%B2%967r/" target="blank">
-      <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="codewars" />
-    </a>
+
 <span style="display: block; overflow: hidden">
   <img   
     width="440"
