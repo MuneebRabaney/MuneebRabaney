@@ -66,7 +66,7 @@ fn main() {
   let programmer = Programmer::new(
     "Muneeb Rabaney".to_string(),
     "Snr. Software Engineer".to_string(),
-    vec!["C", "C++", "Go"],
+    vec!["C", "C++", "Go", "Bun", "Deno", "NodeJS"],
     vec!["C#", "Bash", "JavaScript", "TypeScript"],
   );
 
