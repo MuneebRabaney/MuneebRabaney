@@ -5,7 +5,18 @@
     </span>
     <span align="left">
       <a align="center" href="https://www.codewars.com/users/0xe1%E2%B2%967r/" target="blank">
-        <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="codewars" />
+        <picture>
+          <source 
+            srcset="
+              https://www.codewars.com/users/0xe1%E2%B2%967r/badges/micro 
+              https://www.codewars.com/users/0xe1%E2%B2%967r/badges/small 
+              https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large
+            " 
+            media="(orientation: portrait)" 
+          />
+          <source srcset="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" media="(orientation: landscape)" />
+          <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="codewars" />
+        </picture>
       </a>    
     </span>
   </h1>
