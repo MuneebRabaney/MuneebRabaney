@@ -4,23 +4,23 @@
       @{ Hello World }
     </span>
     <span align="left">
-      <a align="center" href="https://www.codewars.com/users/0xe1%E2%B2%967r/" target="blank">
-        <picture>
-          <source 
-            srcset="
-              https://www.codewars.com/users/0xe1%E2%B2%967r/badges/micro 
-              https://www.codewars.com/users/0xe1%E2%B2%967r/badges/small 
-              https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large
-            " 
-            media="(orientation: portrait)" 
-          />
+      <picture>
+        <source 
+          srcset="
+            https://www.codewars.com/users/0xe1%E2%B2%967r/badges/micro 
+            https://www.codewars.com/users/0xe1%E2%B2%967r/badges/small 
+            https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large
+          " 
+          media="(orientation: portrait)" 
+        />
+        <a align="center" href="https://www.codewars.com/users/0xe1%E2%B2%967r/" target="blank">
           <source srcset="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" media="(orientation: landscape)" />
-          <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="codewars" />
-        </picture>
-      </a>    
+          <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="Codewars" />
+        </a>    
+      </picture>
     </span>
   </h1>
-  <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> <br /> </h3>
+  <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> </h3>
 </span>
 
 <p style="display: inline-block; width: 150px; overflow: background-image:url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');">
@@ -91,9 +91,10 @@ fn main() {
     width="440"
     alt="Coding" 
     align="right"
-    src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" />
-  </span>
-</p>
+    src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" 
+  />
+</span>
+
 
 <p align="left" style="border-radius: 20px">
   <br />
