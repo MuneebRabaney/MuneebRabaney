@@ -1,55 +1,52 @@
-<span style="display: block; background: #69bae4; padding: 10px 15px;">
+<section style="display: block; background: #69bae4; padding: 10px 15px;">
   <h1 style="width: 100%">
-    <span align="left">
+    <div align="left">
       @{ Hello World }
-    </span>
-    <span align="left">
+    </div>
+    <div align="left">
       <picture>
         <source 
-          srcset="
-            https://www.codewars.com/users/0xe1%E2%B2%967r/badges/micro 
-            https://www.codewars.com/users/0xe1%E2%B2%967r/badges/small 
-            https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large
-          " 
           media="(orientation: portrait)" 
+          srcset="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/micro https://www.codewars.com/users/0xe1%E2%B2%967r/badges/small https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" 
         />
         <a align="center" href="https://www.codewars.com/users/0xe1%E2%B2%967r/" target="blank">
           <source srcset="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" media="(orientation: landscape)" />
           <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="Codewars" />
         </a>    
       </picture>
-    </span>
+    </div>
   </h1>
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> </h3>
-</span>
+</section>
 
-<p style="display: inline-block; width: 150px; overflow: background-image:url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');">
+<section style="display: inline-block; width: 150px; overflow: background-image:url('https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif');">
 
 ```rust
-use std::io;
-
-struct Human {
-  name: String,
-}
-
-impl Human {
-  fn new(name: String) -> Self {
-    Self { name }
+  
+  use std::io;
+    
+  struct Human {
+    name: String,
   }
-
-  fn display(&self) {
-    println!("Name: {}", self.name);
+    
+  impl Human {
+    fn new(name: String) -> Self {
+      Self { name }
+    }
+    
+    fn display(&self) {
+      println!("Name: {}", self.name);
+    }
   }
-}
-
-struct Programmer {
-  human: Human,
-  title: String,
-  stack: Vec<String>,
-  languages: Vec<String>,
-}
-
-impl Programmer {
+  
+  struct Programmer {
+    human: Human,
+    title: String,
+    stack: Vec<String>,
+    languages: Vec<String>,
+  }
+  
+  impl Programmer {
   fn new( name: String, title: String, stack: Vec<String>, languages: Vec<String> ) -> Self {
       Self {
         human: Human::new(name),
@@ -58,7 +55,7 @@ impl Programmer {
         languages,
       }
     }
-
+  
     fn display(&self) {
       self.human.display();
       println!("Title: {}", self.title);
@@ -71,33 +68,35 @@ impl Programmer {
         println!("- {}", language);
       }
     }
-}
+  }
+  
+  fn main() {
+    let programmer = Programmer::new(
+      "Muneeb Rabaney".to_string(),
+      "Snr. Software Engineer".to_string(),
+      vec!["C", "C++", "Go", "Bun", "Deno", "NodeJS"],
+      vec!["C#", "Bash", "JavaScript", "TypeScript"],
+    );
+    
+    programmer.display();
+  }
 
-fn main() {
-  let programmer = Programmer::new(
-    "Muneeb Rabaney".to_string(),
-    "Snr. Software Engineer".to_string(),
-    vec!["C", "C++", "Go", "Bun", "Deno", "NodeJS"],
-    vec!["C#", "Bash", "JavaScript", "TypeScript"],
-  );
 
-  programmer.display();
-}
 ```
-</p>
 
-<span style="display: block; overflow: hidden">
+</section>
+
+<section style="display: block; overflow: hidden">
   <img   
     width="440"
     alt="Coding" 
     align="right"
     src="https://github.com/MuneebRabaney/MuneebRabaney/blob/master/programmer.gif" 
   />
-</span>
+</section>
 
-
-<p align="left" style="border-radius: 20px">
-  <br />
+ <br />
+<section align="left" style="border-radius: 20px">
   Connect With <a href="https://linkedin.com/in/muneeb-rabaney/">Me</a>
   <br />
   <br />
@@ -110,10 +109,13 @@ fn main() {
   <a href="https://instagram.com/i.am.he.who.codes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.he.who.codes" height="30" width="40" />
   </a>
-  <br />
-</p>
-<a href="https://stackexchange.com/users/5595672/white-rabbit"><img src="https://stackexchange.com/users/flair/5595672.png" width="208" height="58" alt="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-<p align="center" className="center-inner-nodes" style="background: #444; padding: 1rem">
+  </section>
+
+<a style="margin: 20px 0" href="https://stackexchange.com/users/5595672/white-rabbit">
+  <img src="https://stackexchange.com/users/flair/5595672.png" width="208" height="58" alt="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
+</a>
+
+<section align="center" className="center-inner-nodes" style="background: #444; padding: 1rem">
  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a> &nbsp;&nbsp;
@@ -164,13 +166,12 @@ fn main() {
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /> </a> &nbsp;&nbsp;
-</p>
-<p>
-    &nbsp;&nbsp;
+</section>
+<section>
+  <br />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebrabaney&show_icons=true&hide=html,css,scss,blade&locale=en&layout=compact&theme=tokyonight" alt="muneebrabaney" />
-  &nbsp;&nbsp;
+  <br />
   <span style="display:blockL; width: 20px; height: auto; align: center;">&nbsp;&nbsp;</span>
-    &nbsp;&nbsp;
-
-</p>
+  <br />
+</section>
 
