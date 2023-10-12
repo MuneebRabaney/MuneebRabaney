@@ -1,9 +1,9 @@
 <section style="display: block; background: #69bae4; padding: 10px 15px;">
   <h1 style="width: 100%">
-    <div align="left">
+    <span align="left">
       @{ Hello World }
-    </div>
-    <div align="left">
+    </span>
+    <span align="left">
       <picture>
         <source 
           media="(orientation: portrait)" 
@@ -14,7 +14,7 @@
           <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="Codewars" />
         </a>    
       </picture>
-    </div>
+    </span>
   </h1>
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> </h3>
 </section>
