@@ -7,11 +7,11 @@
       <picture>
         <source 
           media="(orientation: portrait)" 
-          srcset="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/micro https://www.codewars.com/users/0xe1%E2%B2%967r/badges/small https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" 
+          srcset="https://www.codewars.com/users/0xe%E2%B2%967/badges/micro https://www.codewars.com/users/0xe%E2%B2%967/badges/small https://www.codewars.com/users/0xe%E2%B2%967/badges/large" 
         />
-        <a align="center" href="https://www.codewars.com/users/0xe1%E2%B2%967r/" target="blank">
-          <source srcset="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" media="(orientation: landscape)" />
-          <img align="right" src="https://www.codewars.com/users/0xe1%E2%B2%967r/badges/large" alt="Codewars" />
+        <a align="center" href="https://www.codewars.com/users/0xe%E2%B2%967/" target="blank">
+          <source srcset="https://www.codewars.com/users/0xe%E2%B2%967/badges/large" media="(orientation: landscape)" />
+          <img align="right" src="https://www.codewars.com/users/0xe%E2%B2%967/badges/large" alt="Codewars" />
         </a>    
       </picture>
     </span>
