@@ -103,18 +103,19 @@
   <a href="https://za.linkedin.com/in/muneeb-rabaney" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://za.linkedin.com/in/muneeb-rabaney" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/4433536/white-rabbit" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4433536/white-rabbit" height="30" width="40" />
+  <a  href="https://stackoverflow.com/users/4433536/white-rabbit" target="blank">
+    <img style="margin: 20px 0" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4433536/white-rabbit" height="30" width="40" />
   </a>
   <a href="https://instagram.com/i.am.he.who.codes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.he.who.codes" height="30" width="40" />
   </a>
   </section>
-
+  <br />
+<section align="left" style="border-radius: 20px">
 <a style="margin: 20px 0" href="https://stackexchange.com/users/5595672/white-rabbit">
   <img src="https://stackexchange.com/users/flair/5595672.png" width="208" height="58" alt="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for White Rabbit on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
 </a>
-
+</section>
 <section align="center" className="center-inner-nodes" style="background: #444; padding: 1rem">
 <a style="text-decoration: none;" href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a> &nbsp;&nbsp;
  <a style="text-decoration: none;" href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40" /> </a> &nbsp;&nbsp;
