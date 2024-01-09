@@ -1,4 +1,5 @@
 <section style="display: block; background: #69bae4; padding: 10px 15px;">
+  
   <h1 style="width: 100%">
     <span align="left">
       @{ Hello World }
@@ -16,6 +17,11 @@
       </picture>
     </span>
   </h1>
+  <blockquote>
+    Genius is a fickle beast. Sometimes you have the good fortune to work with a mad genius. Other times you are doomed to work 
+    with pure madness.
+    There are also times when it is hard to tell the difference.
+  </blockquote>
   <h3 style="font-size: 1.4rem" align="center">I talk to machines. I solve problems. I code. ♥️ <br /> </h3>
 </section>
 
