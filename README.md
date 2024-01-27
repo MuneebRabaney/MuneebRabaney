@@ -29,64 +29,88 @@
 
 ```rust
   
-  use std::io;
-    
-  struct Human {
-    name: String,
-  }
-    
-  impl Human {
-    fn new(name: String) -> Self {
-      Self { name }
-    }
-    
-    fn display(&self) {
-      println!("Name: {}", self.name);
-    }
-  }
-  
-  struct Programmer {
-    human: Human,
-    title: String,
-    stack: Vec<String>,
-    languages: Vec<String>,
-  }
-  
-  impl Programmer {
-  fn new( name: String, title: String, stack: Vec<String>, languages: Vec<String> ) -> Self {
-      Self {
-        human: Human::new(name),
-        title,
-        stack,
-        languages,
-      }
-    }
-  
-    fn display(&self) {
-      self.human.display();
-      println!("Title: {}", self.title);
-      println!("Stack:");
-      for technology in &self.stack {
-        println!("- {}", technology);
-      }
-      println!("Languages:");
-      for language in &self.languages {
-        println!("- {}", language);
-      }
-    }
-  }
-  
-  fn main() {
-    let programmer = Programmer::new(
-      "Muneeb Rabaney".to_string(),
-      "Snr. Software Engineer".to_string(),
-      vec!["C", "C++", "Go", "Bun", "Deno", "NodeJS"],
-      vec!["C#", "Bash", "JavaScript", "TypeScript"],
-    );
-    
-    programmer.display();
+ struct Human {
+  name: String,
+}
+
+impl Human {
+  fn new(name: String) -> Self {
+    Self { name }
   }
 
+  fn display(&self) {
+    println!("Name: \n{}", self.name);
+  }
+}
+
+struct Programmer {
+  human: Human,
+  title: String,
+  stack: Vec<String>,
+  languages: Vec<String>,
+}
+
+impl Programmer {
+  fn new(name: String, title: String, stack: Vec<String>, languages: Vec<String>) -> Self {
+    Self {
+      human: Human::new(name),
+      title,
+      stack,
+      languages,
+    }
+  }
+
+  fn display(&self) {
+    self.human.display();
+    println!("{}", "\n");
+    println!("Title: \n{}", self.title);
+    println!("{}", "\n");
+    println!("Stack:");
+    for technology in &self.stack {
+      println!("· {}", technology);
+    }
+    println!("{}", "\n");
+    println!("Languages:");
+    for language in &self.languages {
+      println!("· {}", language);
+    }
+  }
+}
+
+fn main() {
+  let programmer = Programmer::new(
+    "Muneeb Rabaney".to_string(),
+    "Snr. Software Engineer".to_string(),
+    vec![
+        "Bun".to_string(),
+        "Vite".to_string(),
+        "NodeJS".to_string(),
+        "NextJS".to_string(),
+        "GraphQL".to_string(),
+        "Laravel".to_string(),
+        "ReactJS".to_string(),
+        "ApolloJS".to_string(),
+        "ExpressJS".to_string(),
+        ".NET Core".to_string(),
+        "React Native".to_string(),
+    ],
+    vec![
+        "C".to_string(), 
+        "Go".to_string(),
+        "C#".to_string(),
+        "C++".to_string(), 
+        "Lua".to_string(),
+        "PHP".to_string(),
+        "Bash".to_string(), 
+        "CSS3".to_string(),
+        "HTML5".to_string(),
+        "JavaScript".to_string(), 
+        "TypeScript".to_string(),
+    ],
+  );
+
+  programmer.display();
+}
 
 ```
 
